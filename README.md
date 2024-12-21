@@ -1,8 +1,11 @@
 # Tutorial_GitHub_Actions
-Repo to play with GitHub Actions
 
 ## Aufbau der Pipeline
 Siehe unter dem Tab Actions
+
+## Puplikation auf Pages
+https://guthoch2.github.io/Tutorial_GitHub_Actions/
+
 
 ## Konfiguration
 Damit das Deployment auf Pages funktioniert... 
